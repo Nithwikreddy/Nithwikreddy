@@ -1,118 +1,200 @@
-Hi, I'm Nithwik Mantrala 👋
-Full-Stack Developer | AI Enthusiast | CSE Student
+<div align="center">
 
-Building scalable web applications, AI-powered systems, and intelligent automation solutions.
+# 👋 Hi, I'm Nithwik Mantrala
 
-🚀 Featured Projects
-🚗 DriveBidRent
+### Full-Stack Developer • AI Enthusiast • CSE Student
 
-Automobile Marketplace Platform
+Building intelligent applications powered by AI, scalable web technologies, and real-world automation systems.
 
-Full-stack automobile marketplace supporting auctions, rentals, and direct vehicle buying/selling.
+<br>
 
-Key Features
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
-Multi-role authentication (Buyer, Seller, Driver, Mechanic, Renter)
-Real-time bidding system for vehicle auctions
-Vehicle rental management
-Streamlined automobile services platform
-Reduced average transaction time by 12 minutes per auction event
+<br>
 
-Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=Nithwikreddy\&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Nithwikreddy?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Nithwikreddy?style=for-the-badge)
 
-React Node.js Express.js MongoDB JavaScript EJS CSS3
+</div>
 
-🔗 Repository
+---
 
-🧠 MindReader
+# 🚀 Featured Projects
 
-AI Mental Wellness Companion
+<table>
+<tr>
 
-Context-aware AI chatbot using RAG and sentiment analysis to provide personalized emotional support.
+<td width="50%" valign="top">
 
-Key Features
+## 🚗 DriveBidRent
 
-LangChain RAG pipeline
-Sentiment-aware conversations
-Personalized memory using Weaviate
-Mood tracking journal
-Guided meditation sessions
+### Automobile Marketplace Platform
 
-Tech Stack
+Full-stack automobile marketplace supporting auctions, rentals, and direct vehicle trading.
 
-React TypeScript FastAPI LangChain MongoDB Weaviate
+#### Highlights
 
-🔗 Repository
+* Multi-role authentication system
+* Vehicle auction bidding engine
+* Rental booking management
+* Seller, Buyer, Driver & Mechanic roles
+* Reduced transaction time by **12 minutes per auction**
 
-🌍 Air Quality Checker
+#### Tech Stack
 
-Location-Based Air Quality Monitoring
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 
-Web application that provides air quality information based on latitude and longitude coordinates.
+🔗 **Repository**
 
-Key Features
+https://github.com/Nithwikreddy/DriveBidRent
 
-User authentication
-Air Quality Index monitoring
-Location-based data retrieval
-Historical lookup support
-Responsive dashboard
+</td>
 
-Tech Stack
+<td width="50%" valign="top">
 
-Node.js Express.js MongoDB JavaScript
+## 🧠 MindReader
 
-🔗 Repository
+### AI Mental Wellness Companion
 
-🚘 Driver Drowsiness Detection System
+Context-aware chatbot leveraging LangChain RAG and sentiment analysis.
 
-Autonomous Safety System
+#### Highlights
 
-Vehicle safety system that detects driver fatigue using sensors and alerts the driver to prevent accidents.
+* Personalized AI memory
+* Weaviate vector database
+* Mood journaling system
+* Meditation session support
+* Real-time AI conversations
 
-Key Features
+#### Tech Stack
 
-IR Sensor-based eye monitoring
-Ultrasonic obstacle awareness
-Driver alert mechanism
-Real-time fatigue detection
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-121212)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B)
 
-Tech Stack
+🔗 **Repository**
 
-Arduino Embedded Systems IR Sensor Ultrasonic Sensor
+https://github.com/Nithwikreddy/MindReader
 
-💻 Technical Skills
-Languages
+</td>
 
-C++ JavaScript Python SQL
+</tr>
 
-Frontend
+<tr>
 
-React HTML5 CSS3 TypeScript
+<td width="50%" valign="top">
 
-Backend
+## 🌍 Air Quality Checker
 
-Node.js Express.js FastAPI
+### Environmental Monitoring Platform
 
-Databases
+Location-based air quality monitoring using latitude and longitude.
 
-MongoDB Weaviate
+#### Highlights
 
-AI / ML
+* User authentication
+* AQI monitoring dashboard
+* Real-time location queries
+* Secure user accounts
+* Clean responsive UI
 
-LangChain RAG Vector Databases
+#### Tech Stack
 
-📊 GitHub Stats
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 
+🔗 **Repository**
 
+https://github.com/Nithwikreddy/Airqualitychecker
 
+</td>
 
+<td width="50%" valign="top">
 
+## 🚘 Driver Drowsiness Detection
 
+### Smart Vehicle Safety System
 
-🌐 Connect With Me
-GitHub: https://github.com/Nithwikreddy
-LinkedIn: Add Your LinkedIn URL
-Email: Add Your Email
+Driver fatigue detection using embedded sensors.
 
-⭐ Always interested in building impactful software and AI-driven solutions.
+#### Highlights
+
+* IR sensor monitoring
+* Ultrasonic obstacle detection
+* Real-time driver alerts
+* Accident prevention support
+
+#### Tech Stack
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-blue)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithwikreddy&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithwikreddy&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+* 🚀 Built Full-Stack Marketplace Applications
+* 🤖 Developed AI-powered RAG Systems
+* 🌍 Built Environmental Monitoring Solutions
+* 🚘 Worked on Embedded Vehicle Safety Systems
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Nithwikreddy)
+
+</div>
