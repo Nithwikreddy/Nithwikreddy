@@ -116,28 +116,6 @@ https://github.com/Nithwikreddy/Airqualitychecker
 
 </td>
 
-<td width="50%" valign="top">
-
-## 🚘 Driver Drowsiness Detection
-
-### Smart Vehicle Safety System
-
-Driver fatigue detection using embedded sensors.
-
-#### Highlights
-
-* IR sensor monitoring
-* Ultrasonic obstacle detection
-* Real-time driver alerts
-* Accident prevention support
-
-#### Tech Stack
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-blue)
-
-</td>
-
 </tr>
 </table>
 
